@@ -1,0 +1,249 @@
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\MyApi.exe
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\MyApi.deps.json
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\MyApi.runtimeconfig.json
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\MyApi.pdb
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\scopedcss\bundle\MyApi.styles.css
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.csproj.Up2Date
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\refint\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.pdb
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\obj\Debug\net8.0\ref\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\MyApi\bin\Debug\net8.0\MyApi.staticwebassets.runtime.json
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\appsettings.json
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\MyApi.staticwebassets.runtime.json
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\MyApi.exe
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\MyApi.deps.json
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\MyApi.runtimeconfig.json
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\MyApi.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\MyApi.pdb
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.csproj.AssemblyReference.cache
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfoInputs.cache
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfo.cs
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.csproj.CoreCompileInputs.cache
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyApi.props
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyApi.props
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyApi.props
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\scopedcss\bundle\MyApi.styles.css
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.dll
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\refint\MyApi.dll
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.pdb
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\ref\MyApi.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Data\Books.json
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Data\users.json
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Data\Books.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Data\users.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.staticwebassets.runtime.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.exe
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.deps.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.runtimeconfig.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.pdb
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\scopedcss\bundle\MyApi.styles.css
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.csproj.Up2Date
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\refint\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.pdb
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\obj\Debug\net8.0\ref\MyApi.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\appsettings.Development.json
+D:\פרויקט core\MyApi\bin\Debug\net8.0\appsettings.json
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Data\Books.json
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Data\users.json
+D:\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.staticwebassets.runtime.json
+D:\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.exe
+D:\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.deps.json
+D:\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.runtimeconfig.json
+D:\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\MyApi.pdb
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט core\MyApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.csproj.AssemblyReference.cache
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfoInputs.cache
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfo.cs
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.csproj.CoreCompileInputs.cache
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyApi.props
+D:\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyApi.props
+D:\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyApi.props
+D:\פרויקט core\MyApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\פרויקט core\MyApi\obj\Debug\net8.0\scopedcss\bundle\MyApi.styles.css
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.csproj.Up2Date
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.dll
+D:\פרויקט core\MyApi\obj\Debug\net8.0\refint\MyApi.dll
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.pdb
+D:\פרויקט core\MyApi\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
+D:\פרויקט core\MyApi\obj\Debug\net8.0\ref\MyApi.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\סולטן שירה\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט core\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\סולטן שירה\MyApi\obj\Debug\net8.0\MyApi.csproj.CopyComplete
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Data\Books.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Data\users.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.staticwebassets.runtime.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.exe
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.deps.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.runtimeconfig.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.pdb
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\scopedcss\bundle\MyApi.styles.css
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.csproj.Up2Date
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\refint\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.pdb
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
+C:\Users\user1\Desktop\B הנדסאים\core\פרויקט\MyApi\obj\Debug\net8.0\ref\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Data\users.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Data\Books.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.staticwebassets.runtime.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.exe
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.deps.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.runtimeconfig.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\MyApi.pdb
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyApi.props
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\scopedcss\bundle\MyApi.styles.css
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.csproj.Up2Date
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\refint\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.pdb
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\ref\MyApi.dll

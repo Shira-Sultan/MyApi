@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/login.css">
+    <title>LogIn</title>
+</head>
+<body>
+    <div>
+        <h1>Login</h1>
+        <label for="name">name</label>
+        <input type="text" name="name" id="name">
+        <label for="password">password</label>
+        <input type="text" name="password" id="password">
+        <button type="submit" id="submit">send</button>
+       
+        <button id="postmanButton" style="background-color: #FF6C37;">Open in Postman</button>
+
+    </div>
+</body>
+
+<script src="./js/login.js"></script>
+<script>
+    // document.getElementById("postmanButton").addEventListener("click", function() {
+    //     window.open("https://www.postman.com/crimson-shadow-654378/workspace/tasks/example/31279862-d73b7d2a-ab09-4894-82de-0e40897d377d", "_blank");
+    // });
+
+    document.getElementById("postmanButton").addEventListener("click", function() {
+            const postmanURI = "postman://collection/40310174-3aac6243-1943-408a-aa86-f8368f4fc34d";
+            window.open(postmanURI, "_blank");
+    });
+</script>
+
+</html>
+

@@ -1,0 +1,21 @@
+/* סגנון בסיסי לקישור */
+.book-link {
+    text-decoration: none; /* הסרת קו תחתון */
+    color: #4a90e2; /* צבע טקסט ירוק */
+    font-size: 14px; /* גודל טקסט */
+    font-family: Arial, sans-serif; /* משפחת גופנים */
+    padding: 4px 12px; /* ריווח פנימי */
+    border: 2px solid #4a90e2; /* מסגרת ירוקה */
+    border-radius: 4px; /* פינות מעוגלות */
+    background-color: #f9f9f9; /* צבע רקע */
+    transition: all 0.3s ease; /* אפקט מעבר */
+    margin-left: 7.5%;
+}
+
+/* אפקט רחיפה */
+.book-link:hover {
+    background-color: #4a90e2; /* רקע ירוק */
+    color: white; /* טקסט לבן */
+    border-color: #4a90e2; /* מסגרת כהה יותר */
+    transform: scale(1.05); /* הגדלה קלה */
+}

@@ -1,0 +1,143 @@
+/* עיצוב כללי */
+body {
+    font-family: Heebo;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* כותרת ראשית */
+h1 {
+    text-align: center;
+    color: #4a90e2;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #4a90e2;
+    margin-top: 0px;
+}
+
+#counter {
+    margin-left: 30px;
+}
+
+/* טפסים */
+#addForm {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-width: 400px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+form input[type="text"],
+form input[type="number"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+form input[type="submit"] {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+form input[type="submit"]:hover {
+    background-color: #357ab7;
+}
+
+/* טבלה */
+table {
+    width: 85%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+table th,
+table td {
+    padding: 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+table th {
+    background-color: #4a90e2;
+    color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* טופס עריכה */
+#editForm {
+    display: none;
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    z-index: 10;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#editForm a {
+    float: right;
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+input[type='submit'],
+button,
+[aria-label] {
+    cursor: pointer;
+}
+
+
+
+/* סגנון בסיסי לקישור */
+.book-link {
+    text-decoration: none; /* הסרת קו תחתון */
+    color: #4a90e2; /* צבע טקסט ירוק */
+    font-size: 14px; /* גודל טקסט */
+    font-family: Arial, sans-serif; /* משפחת גופנים */
+    padding: 4px 12px; /* ריווח פנימי */
+    border: 2px solid #4a90e2; /* מסגרת ירוקה */
+    border-radius: 4px; /* פינות מעוגלות */
+    background-color: #f9f9f9; /* צבע רקע */
+    transition: all 0.3s ease; /* אפקט מעבר */
+    margin-left: 7.5%;
+}
+
+/* אפקט רחיפה */
+.book-link:hover {
+    background-color: #4a90e2; /* רקע ירוק */
+    color: white; /* טקסט לבן */
+    border-color: #4a90e2; /* מסגרת כהה יותר */
+    transform: scale(1.05); /* הגדלה קלה */
+}
+
+#hi {
+    text-align: center;
+    color: black;
+    font-weight: 300;
+}

@@ -1,0 +1,57 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Shira",
+    "password": "shira2396"
+  },
+  {
+    "Id": 2,
+    "Name": "Bob",
+    "password": "bobsecure"
+  },
+  {
+    "Id": 3,
+    "Name": "Charlie",
+    "password": "charlie2023"
+  },
+  {
+    "Id": 4,
+    "Name": "Diana",
+    "password": "diana007"
+  },
+  {
+    "Id": 5,
+    "Name": "Eve",
+    "password": "eveSecret"
+  },
+  {
+    "Id": 6,
+    "Name": "Frank",
+    "password": "frankie"
+  },
+  {
+    "Id": 7,
+    "Name": "Grace",
+    "password": "graceful!"
+  },
+  {
+    "Id": 8,
+    "Name": "Hank",
+    "password": "hank2024"
+  },
+  {
+    "Id": 9,
+    "Name": "Ivy",
+    "password": "ivyrocks"
+  },
+  {
+    "Id": 11,
+    "Name": "miri",
+    "password": "123miri"
+  },
+  {
+    "Id": 12,
+    "Name": "dassy",
+    "password": "ds852"
+  }
+]

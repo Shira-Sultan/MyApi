@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Books CRUD</title>
+    <link rel="stylesheet" href="./css/site.css" />
+</head>
+
+<body>
+    <h1>MyBooks CRUD</h1>
+    <h4 id="hi"></h4>
+    <form id="addForm" action="javascript:void(0);" method="POST" onsubmit="addItem()">
+        <input type="text" id="add-name" placeholder="name book"><br/><br/>
+        <input type="number" id="add-price" placeholder="price book"><br/><br/>
+        <input type="submit" value="Add">
+    </form>
+
+    <div id="editForm">   
+        <form action="javascript:void(0);" onsubmit="updateItem()">
+            <input type="hidden" id="edit-id">
+            <a onclick="closeInput()" aria-label="Close">✕</a><br/>
+            <h3>Edit</h3>
+            <input type="text" id="edit-name"><br/><br/>
+            <input type="text" id="edit-price"><br/><br/>
+            <input type="submit" value="Save">        
+        </form>
+    </div>
+
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+        <tbody id="books"></tbody>
+    </table>
+
+    <script src="js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        //getItems();
+    </script>
+</body>
+
+</html>

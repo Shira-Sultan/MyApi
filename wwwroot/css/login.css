@@ -1,0 +1,65 @@
+/* עיצוב כללי */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f0fe;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* מסגרת דף ההתחברות */
+div {
+    text-align: center;
+    padding: 20px;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* כותרת */
+h1 {
+    color: #4a90e2;
+    margin-bottom: 20px;
+}
+
+/* תוויות */
+label {
+    display: block;
+    margin: 10px 0 5px;
+    text-align: left;
+}
+
+/* שדות קלט */
+input[type="text"],
+input[type="password"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* כפתורים */
+button {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #357ab7;
+}
+/* #postmanButton {
+    background-color: #e27d4a;
+} */

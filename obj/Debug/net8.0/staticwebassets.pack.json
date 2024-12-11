@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\css\\userList.css",
+      "PackagePath": "staticwebassets\\css\\userList.css"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\js\\usetList.js",
+      "PackagePath": "staticwebassets\\js\\usetList.js"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\B הנדסאים\\.Net core\\פרויקט\\MyApi\\wwwroot\\userList.html",
+      "PackagePath": "staticwebassets\\userList.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyApi.props",
+      "PackagePath": "build\\MyApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyApi.props",
+      "PackagePath": "buildMultiTargeting\\MyApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyApi.props",
+      "PackagePath": "buildTransitive\\MyApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

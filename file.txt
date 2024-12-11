@@ -1,0 +1,292 @@
+/index.html.GET took 49ms. User: unknown
+/css/site.css.GET took 2ms. User: unknown
+/favicon.ico.GET took 6ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/js/site.js.GET took 7ms. User: unknown
+/login.html.GET took 0ms. User: unknown
+/Books.GET took 2ms. User: unknown
+/js/login.js.GET took 0ms. User: unknown
+/login.POST took 171ms. User: unknown
+/index.html.GET took 0ms. User: unknown
+/Books.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/Books.GET took 1ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/login.POST took 145ms. User: unknown
+/Books.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/login.POST took 4ms. User: unknown
+/Books.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/login.html.GET took 9ms. User: unknown
+/login.POST took 1ms. User: unknown
+/Books.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/index.GET took 0ms. User: 2
+/login.html.GET took 1ms. User: unknown
+/login.POST took 1ms. User: unknown
+/Books.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+/index.GET took 0ms. User: 1
+11/12/2024 17:48:19   /index.html.GET took 80ms. User: unknown
+11/12/2024 17:48:19   /js/site.js.GET took 4ms. User: unknown
+11/12/2024 17:48:19   /login.html.GET took 0ms. User: unknown
+11/12/2024 17:48:19   /Books.GET took 2ms. User: unknown
+11/12/2024 17:48:19   /js/login.js.GET took 0ms. User: unknown
+11/12/2024 17:48:19   /favicon.ico.GET took 5ms. User: unknown
+11/12/2024 17:48:32   /login.POST took 185ms. User: unknown
+11/12/2024 17:48:32   /index.html.GET took 0ms. User: unknown
+11/12/2024 17:48:32   /css/site.css.GET took 7ms. User: unknown
+11/12/2024 17:48:32   /Books.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:48:32   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /login.POST took 3ms. User: unknown
+11/12/2024 17:49:11   /Books.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:49:11   /index.GET took 0ms. User: 1
+11/12/2024 17:50:08   /login.html.GET took 0ms. User: unknown
+11/12/2024 17:50:12   /login.POST took 1ms. User: unknown
+11/12/2024 17:50:12   /Books.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:12   /index.GET took 0ms. User: 1
+11/12/2024 17:50:36   /swagger.GET took 9ms. User: unknown
+11/12/2024 17:50:36   /swagger/index.html.GET took 90ms. User: unknown
+11/12/2024 17:50:36   /swagger/swagger-ui.css.GET took 40ms. User: unknown
+11/12/2024 17:50:36   /swagger/swagger-ui-standalone-preset.js.GET took 30ms. User: unknown
+11/12/2024 17:50:36   /swagger/swagger-ui-bundle.js.GET took 65ms. User: unknown
+11/12/2024 17:50:36   /swagger/favicon-32x32.png.GET took 0ms. User: unknown
+11/12/2024 17:50:36   /swagger/v1/swagger.json.GET took 167ms. User: unknown
+11/12/2024 17:51:05   /login.POST took 2ms. User: unknown
+11/12/2024 17:51:36   /Books.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:51:36   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /Users.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:03   /index.GET took 0ms. User: 1
+11/12/2024 17:52:45   /swagger/index.html.GET took 0ms. User: unknown
+11/12/2024 17:52:46   /swagger/v1/swagger.json.GET took 11ms. User: unknown
+11/12/2024 18:35:33   /Books.GET took 7ms. User: unknown
+11/12/2024 18:35:42   /login.POST took 135ms. User: unknown
+11/12/2024 18:35:43   /Books.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1
+11/12/2024 18:35:43   /index.GET took 0ms. User: 1

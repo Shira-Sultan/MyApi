@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>user CRUD</title>
+    <link rel="stylesheet" href="css/site.css" />
+    <link rel="stylesheet" href="./css/userList.css" />
+</head>
+
+<body>
+    <h1>Users CRUD</h1>
+    <form id="addForm" action="javascript:void(0);" method="POST" onsubmit="addUsers()">
+        <input type="text" id="add-name" placeholder="New user">
+        <input type="text" id="add-password" placeholder="New password">
+        <input type="submit" value="Add">
+    </form>
+
+    <p id="counter"></p>
+
+    <a href="./index.html" class="book-link">my books</a>
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Password</th>
+            <th>Delete</th>
+        </tr>
+        <tbody id="users"></tbody>
+    </table>
+
+    
+
+    <script src="js/usetList.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+       
+    </script>
+</body>
+
+</html>
