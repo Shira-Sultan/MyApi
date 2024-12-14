@@ -14,7 +14,7 @@ namespace MyApi.Controllers
     {
 
         private IUsersService UsersService;
-        IBooksService ifUserDeleted;
+        // readonly IBooksService ifUserDeleted;
         public UsersController(IUsersService UsersService)
         {
             this.UsersService = UsersService;
@@ -46,14 +46,6 @@ namespace MyApi.Controllers
             return CreatedAtAction(nameof(Create), new { id = newUser.Id }, newUser);
         }
 
-        // public ActionResult Create(Users newUser)
-        // {
-        //     var newId = UsersService.Add(newUser);
-
-        //     return CreatedAtAction("Create",
-        //         new { id = newId }, UsersService.Get(newId));
-        // }
-
         [HttpPut("{id}")]
         [Authorize(Policy = "User")]
         //עדכון משתמש
@@ -82,8 +74,7 @@ namespace MyApi.Controllers
 
             UsersService.Delete(id);
 
-            ifUserDeleted.DeleteAllBooks(user.Id);
-            
+            //ifUserDeleted.DeleteAllBooks(user.Id);        
             return Content(UsersService.Count.ToString());
         }
 

@@ -9,7 +9,7 @@ namespace MyApi.Services
     public class BooksService : IBooksService
     {
         List<Books> arrayBooks;
-        int nextId = 9;
+
         private string fileName = "Books.json";
         public BooksService()
         {

@@ -11,9 +11,12 @@ namespace MyApi.Services
     public class UsersService : IUsersService
     {
         List<Users> arrayUsers;
+        readonly IBooksService ifUserDeleted;
         private string fileName = "users.json";
-        public UsersService()
+        public UsersService(IBooksService ifUserDeleted)
         {
+            this.ifUserDeleted = ifUserDeleted;
+
             fileName = Path.Combine("data", "users.json");
 
             using (var jsonFile = File.OpenText(fileName))
@@ -72,6 +75,8 @@ namespace MyApi.Services
             if (user is null)
                 return;
             arrayUsers.Remove(user);
+
+            ifUserDeleted.DeleteAllBooks(user.Id); //כדי למחוק את כל הספרים של המשתמש שנמחק
 
             SaveToFile();
         }

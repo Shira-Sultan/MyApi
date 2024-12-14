@@ -247,3 +247,4 @@ C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\n
 C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.pdb
 C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
 C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\ref\MyApi.dll
+C:\Users\user1\Desktop\B הנדסאים\.Net core\פרויקט\MyApi\obj\Debug\net8.0\MyApi.sourcelink.json
